@@ -1,0 +1,5 @@
+{
+  "watch": ["src"],
+  "ext": "js",
+  "exec": "set UV_THREADPOOL_SIZE=64 && node src/index.js"
+}
